@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.purchase{
+    width: 45%; 
+    height: 200px;
+    border: 1px solid #fb637f;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.button{
+    padding: 10px;
+    
+}
+.your-cart h3{
+    height: 30px;
+    color: #fb637f;
+    background-color: #FFCCCC;
+    padding-left: 10px ;
+}
+.price{
+    display: flex;
+}
+.price h6{
+    padding-top: 10px;
+    margin: auto;
+    
+}
+.price p{
+    padding-top: 10px;
+    margin: auto;
+    
+}
+.empty p{
+    padding-left: 30px;
+}
+.in-cart{
+    display: flex;
+    padding-left: 30px;
+
+}
+.usd{
+    color: red;
+    margin-left: 20px;
+}
